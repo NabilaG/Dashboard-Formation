@@ -28,7 +28,7 @@ Ce projet présente un tableau de bord interactif conçu sous Power BI pour le s
 
 (Les captures d’écran seront ajoutées ici — prochaine étape)
 📎 Vous pouvez consulter le dashboard complet ici :
-[Voir le dashboard en PDF](Projet_Dahboard_Formation.pdf)
+[Voir le dashboard en PDF](Projet_Dashboard_Formation.pdf)
 
 **🧠 Valeur business**
 
